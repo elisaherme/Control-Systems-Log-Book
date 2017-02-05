@@ -1,9 +1,9 @@
 # Control Systems Practicals
-
-##Task 1
+##Practical 1 30/01/2017
+###Task 1
 ![](https://cloud.githubusercontent.com/assets/25483756/22626061/8ddd8d14-eb9c-11e6-834a-093a02012252.png)
 
-##Task 2
+###Task 2
 
 ####Sinusoidal amplitude= 1 frequency= 20
 
@@ -27,7 +27,7 @@
 
 ####If the denominator is 0, then the output would go to infinity. As we want an unstable response, we want positive real part of the roots. If at least one of the poles are positive, then it is unstable. For stable system you require the poles to be negative. We want to create an unstable system. We can put -70s so the positive part turns positive.
 
-##Task 3
+###Task 3
 ![](https://cloud.githubusercontent.com/assets/25483756/22626093/97208e98-eb9d-11e6-87c3-4658cf81fa25.png)
 
 ####Frequency= 1 amplitude=1 
@@ -37,7 +37,7 @@
 
 ![](https://cloud.githubusercontent.com/assets/25483756/22626107/d8f22a3e-eb9d-11e6-8d91-f120b68a9840.png)
 
-##Task 4
+###Task 4
 ![](https://cloud.githubusercontent.com/assets/25483756/22626102/b7e4c888-eb9d-11e6-9690-45fb833a173d.png)
 ![](https://cloud.githubusercontent.com/assets/25483756/22626098/ae38764a-eb9d-11e6-9604-c246f17f221f.png)
 
@@ -47,7 +47,7 @@
 
 ####In mass spring system, it’s like holding the mass and then release it. Without any sort of resistance (air) and a perfect spring, the mass would keep oscillating in the same way forever.
 
-##Task 5
+###Task 5
 
 ####Mass spring damper system
 ![](https://cloud.githubusercontent.com/assets/25483756/22626103/c3f61ffa-eb9d-11e6-8b0e-3aa8adec5406.png)
