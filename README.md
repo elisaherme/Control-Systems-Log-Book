@@ -1,6 +1,7 @@
 # Control Systems Practicals
 
 ##Task 1
+![](https://cloud.githubusercontent.com/assets/25483756/22626061/8ddd8d14-eb9c-11e6-834a-093a02012252.png)
 
 ##Task 2
 
