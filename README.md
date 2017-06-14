@@ -19,7 +19,7 @@
 ![](https://cloud.githubusercontent.com/assets/25483756/22626109/f33e3e46-eb9d-11e6-9c11-4080a7db78b5.png)
 ![](https://cloud.githubusercontent.com/assets/25483756/22626111/f6ecfafa-eb9d-11e6-8e95-0ecee426d6f6.png)
 
-####If we evaluate the roots in the denominator, we can get different outputs depending on how the imaginary and real part are:
+#### If we evaluate the roots in the denominator, we can get different outputs depending on how the imaginary and real part are:
 
 *	Negative real part, stable system
 * Positive real part, unbounded unstable, it goes to infinity
